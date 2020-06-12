@@ -12,4 +12,4 @@
 - [Преза - Conundrum Quality Selector (мой feature_extraction алгоритм)](https://docs.google.com/presentation/d/1D_tmXTcTK-k-45UNufzmtQK0hMhxpDHLOC_fRDJcwsI/edit?usp=sharing)
 - [Преза - Conundrum Taxi EDA (тут в основном просто графики)](https://docs.google.com/presentation/d/119tWh0gH4uN7K4m9ALH_4O82HucBN9t49pgfXlkuD28/edit?usp=sharing)
 - Мой проект под Android [git](https://github.com/unfinity-core/IngradientLauncher)
-- [Resume](https://github.com/unfinity-core/portfolio/resume.md)
+- [resume.md](https://github.com/unfinity-core/portfolio/blob/master/resume.md)
