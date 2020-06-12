@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Portfolio
 
 В этом репозитории я выложил некоторые свои работы, ноутбуки и ссылки на презентации.
@@ -13,3 +14,7 @@
 - [Преза - Conundrum Taxi EDA (тут в основном просто графики)](https://docs.google.com/presentation/d/119tWh0gH4uN7K4m9ALH_4O82HucBN9t49pgfXlkuD28/edit?usp=sharing "Conundrum EDA (тут в основном графики)")
 - Мой проект под Android [git](https://github.com/unfinity-core/IngradientLauncher)
 - [Resume](https://github.com/unfinity-core/portfolio/resume.md)
+=======
+# portfolio
+Здесь собраны мои самые интересные работы и исследования.
+>>>>>>> e5bd9d3fa017172a59f0d7d57df7927fe9ef6062
